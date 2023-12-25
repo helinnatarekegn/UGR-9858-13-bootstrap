@@ -1,0 +1,19 @@
+{
+  "name": "ugr-9858-13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass src1/Styles/main.scss css/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
